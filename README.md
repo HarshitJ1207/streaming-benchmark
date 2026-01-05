@@ -27,6 +27,8 @@ cd ../bun-proxy && bun install
 
 Tests run at 50, 100, 200, and 500 concurrent connections. Servers restart between each concurrency level for clean results.
 
+📊 **[Detailed Analysis →](./ANALYSIS.md)**
+
 ---
 
 ## Results
